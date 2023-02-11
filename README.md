@@ -1,4 +1,4 @@
-# Weather App
+# React-Weather-App-Setting
 
 A weather app that fetches weather data from the OpenWeatherMap API and displays it to the user.
 
@@ -29,4 +29,4 @@ To run the project, clone the repository and install the dependencies using the 
 - $ cd [repo-name]
 - $ npm install
 - $ npm start
-# React-Weather-App
+
